@@ -1,0 +1,228 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.02.2025 23:48:36
+
+newmtl 46f7d5dc_edbe_425f_b08f_8905dd7464fe
+	Ns 10.0000
+	Ni 1.5000
+	d 0.0510
+	Tr 0.9490
+	Tf 0.0510 0.0510 0.0510 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 52b3e8bd_d85f_4aaa_a48a_9c37fea790f5
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0157 0.0157 0.0157
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 1cae7c42_71c5_46af_b02b_a112a284f52c
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 85c51dba_179e_4da6_87c4_cf94bb08d000
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\textures\relebook-export-ggach402690-001.jpg
+	map_Kd ..\textures\relebook-export-ggach402690-001.jpg
+	map_bump ..\textures\relebook-export-ggach402690-002.jpg
+	bump ..\textures\relebook-export-ggach402690-002.jpg
+
+newmtl 6b0f21b3_c6ff_4e3e_82d8_143f656ca86b
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\textures\relebook-export-ggach402690-003.jpg
+	map_Kd ..\textures\relebook-export-ggach402690-003.jpg
+	map_bump ..\textures\relebook-export-ggach402690-004.jpg
+	bump ..\textures\relebook-export-ggach402690-004.jpg
+
+newmtl 72c4dfd5_31ad_4fa7_8e45_1c4a802183e9
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\textures\relebook-export-ggach402690-005.jpg
+	map_Kd ..\textures\relebook-export-ggach402690-005.jpg
+	map_bump ..\textures\relebook-export-ggach402690-006.jpg
+	bump ..\textures\relebook-export-ggach402690-006.jpg
+
+newmtl 66064b3c_8a15_421c_a0d3_ffc71812c1e8
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\textures\relebook-export-ggach402690-007.jpg
+	map_Kd ..\textures\relebook-export-ggach402690-007.jpg
+	map_bump ..\textures\relebook-export-ggach402690-008.jpg
+	bump ..\textures\relebook-export-ggach402690-008.jpg
+
+newmtl 25a20012_6d4c_4059_97ef_75644145aa65
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\textures\relebook-export-ggach402690-009.jpg
+	map_Kd ..\textures\relebook-export-ggach402690-009.jpg
+
+newmtl 8dadca97_26b8_47a4_bf7e_d6cac4da0834
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\textures\relebook-export-ggach402690-010.jpg
+	map_Kd ..\textures\relebook-export-ggach402690-010.jpg
+	map_bump ..\textures\relebook-export-ggach402690-011.jpg
+	bump ..\textures\relebook-export-ggach402690-011.jpg
+
+newmtl da6ca5e3_7823_4359_933f_f26784a7ea49
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0196 0.0196 0.0196
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 1f6f3aa4_c366_41b8_86b1_8d6f6c39addc
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 82612e78_c770_4872_8b2e_91369eae44be
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\textures\relebook-export-ggach402690-012.jpg
+	map_Kd ..\textures\relebook-export-ggach402690-012.jpg
+
+newmtl b3ed1a9f_daa2_49f2_a020_a7cac425f781
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\textures\relebook-export-ggach402690-013.jpg
+	map_Kd ..\textures\relebook-export-ggach402690-013.jpg
+	map_bump ..\textures\relebook-export-ggach402690-014.jpg
+	bump ..\textures\relebook-export-ggach402690-014.jpg
+
+newmtl 05bf9b12_c5f7_4da9_979d_4e417e9a11e1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\textures\relebook-export-ggach402690-015.jpg
+	map_Kd ..\textures\relebook-export-ggach402690-015.jpg
+
+newmtl f8cfdb7d_bf56_4dff_9ccd_0a0aea5f1808
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\textures\relebook-export-ggach402690-016.jpg
+	map_Kd ..\textures\relebook-export-ggach402690-016.jpg
+	map_bump ..\textures\relebook-export-ggach402690-017.jpg
+	bump ..\textures\relebook-export-ggach402690-017.jpg
+
+newmtl c43859ea_6bcb_4f31_82ff_088fe8f52a9c
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.1961 0.2039 0.2118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
